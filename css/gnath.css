@@ -1,0 +1,50 @@
+body
+{
+    background-color:#333333;
+    color: #dddddd;
+}
+
+h1
+{
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.centerbox
+{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    font-size: 1.5em;
+}
+
+a
+{
+    color: #aaaaff;
+}
+
+textarea
+{
+    background-color:#111111;
+    color: #cccccc;
+    border-color: #444444;
+}
+
+input
+{
+    background-color:#656565;
+    color: #cccccc;
+    border-color: #444444;
+}
+
+button
+{
+    background-color:#656565;
+    color: #cccccc;
+    border-color: #444444;
+}
+
+table, th, tr, td
+{
+    border-color: #444444;
+}

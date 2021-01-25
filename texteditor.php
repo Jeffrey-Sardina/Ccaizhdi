@@ -1,38 +1,15 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <style> 
-            @font-face
-            {
-                font-family:"ccaizhdi";
-                src: url("ccaizhdi_rotatedv4.woff") format("woff");
-                font-weight:normal;
-                font-style:normal;
-            }
-            
-            .ccaizhdi 
-            {
-                font-family: 'ccaizhdi';
-                writing-mode: vertical-lr;
-            }
-
-            h1
-            {
-                text-align: center;
-                font-size: 2.5em;
-            }
-
+        <link rel="stylesheet" href="css/ccaizhdi.css">
+        <link rel="stylesheet" href="css/gnath.css">
+        <style>
             textarea
             {
                 font-size: 2em;
-            }
-
-            .centerbox
-            {
-                margin: auto;
-                width: 60%;
-                padding: 10px;
-                font-size: 1.5em;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
             }
 
             .table
@@ -40,7 +17,10 @@
                 width: 100%;
             }
 
-        
+            tr:nth-child(even)
+            {
+                background-color: #444444; 
+            } 
         </style>
     </head>
 
@@ -54,16 +34,14 @@
             </ul>
 
             <br><br>
-            Go ahead and use the text box below to type in the Ccaizhdi script. It is still being developed, so only lower-case characters will work. Numbers and warcase (the Ccaizhdi 'upper case' of sorts, but less used than the English upper case) will be added later.
-            <br><br>
-            Note that the font used is generally easy on the QWERTY keyboard. However, some bindings are not intuitive, so I have a list below:
+            Note that the font used to type in Ccaizhdi has some key bindings that are not intuitive. Take a look at the list below for how to type all the letters in the Ccaizhdi alphabet.
             <br><br>
 
             <table>
             <tr>
-                <th>Key----</th>
-                <th>Sound english /IPA/----</th>
-                <th>Letter Name----</th>
+                <th>Keyboard</th>
+                <th>~English /IPA/</th>
+                <th>Letter Name</th>
             </tr>
             <tr>
                 <td>a</td>
@@ -182,9 +160,12 @@
                 <td>zhi</td>
             </tr>
             </table>
+
+            <br><br>
+            Go ahead and use the text box below to type in the Ccaizhdi script. It is still being developed, so only lower-case characters will work. Numbers and warcase (the Ccaizhdi 'upper case' of sorts, but less used than the English upper case) will be added later.
         </div>
 
-        <textarea class="ccaizhdi" rows="35" cols="20"></textarea>
+        <textarea class="ccaizhdi" rows="30" cols="25"></textarea>
 
     </body>
 </html>

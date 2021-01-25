@@ -1,0 +1,13 @@
+@font-face
+{
+    font-family:"ccaizhdi";
+    src: url("../ccaizhdi_rotatedv5.woff") format("woff");
+    font-weight:normal;
+    font-style:normal;
+}
+
+.ccaizhdi 
+{
+    font-family: 'ccaizhdi';
+    writing-mode: vertical-lr;
+}

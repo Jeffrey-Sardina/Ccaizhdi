@@ -1,37 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <style> 
-            @font-face
-            {
-                font-family:"ccaizhdi";
-                src: url("ccaizhdi_rotatedv4.woff") format("woff");
-                font-weight:normal;
-                font-style:normal;
-            }
-            
-            .ccaizhdi 
-            {
-                font-family: 'ccaizhdi';
-                writing-mode: vertical-lr;
-            }
-
-            h1
-            {
-                text-align: center;
-                font-size: 2.5em;
-            }
-
-            .centerbox
-            {
-                margin: auto;
-                width: 60%;
-                padding: 10px;
-                font-size: 1.5em;
-            }
-
-        
-        </style>
+        <link rel="stylesheet" href="css/ccaizhdi.css">
+        <link rel="stylesheet" href="css/gnath.css">
     </head>
 
     <body>
@@ -50,7 +21,6 @@
             List of stuff I intend to add soon:
             <ul>
                 <li>Irish-language setting</li>
-                <li>Dark mode</li>
                 <li>Ccaizhdi dictionary and grammar (once I have it developed well enough)</li>
                 <li>Ccaizhdi language lore</li>
             </ul>
