@@ -5,7 +5,7 @@
             @font-face
             {
                 font-family:"ccaizhdi";
-                src: url("ccaizhdi_rotated.woff") format("woff");
+                src: url("ccaizhdi_rotatedv4.woff") format("woff");
                 font-weight:normal;
                 font-style:normal;
             }
@@ -37,32 +37,45 @@
     <body>
         <h1>Welcome to the site of the Ccaizhdi language!</h1>
 
-        <p class='centerbox'>
-            This site will contain lore, learning resources, and a text editor for my favorite fantasy langauge, Ccaizhdi (aka Fantask Klingon). It's still in development, so please be aware that features will be being added over time.
+        <div class='centerbox'>
+            Links:
+            <ul>
+                <li><a href='texteditor.php'>Ccaizhdi Text Editor</a></li>
+            </ul>
             <br><br>
-            Have fun learning Fantasy Klingon!
-            <br>
-            --Jeffrey (Siothrún) Sardina
+
+            This site will contain lore, learning resources, and a text editor for my favorite invented fantasy langauge, Ccaizhdi (aka Fantasy Klingon). It's still in development, so please be aware that features will be being added over time.
+            <br><br>
+
+            List of stuff I intend to add soon:
+            <ul>
+                <li>Irish-language setting</li>
+                <li>Dark mode</li>
+                <li>Ccaizhdi dictionary and grammar (once I have it developed well enough)</li>
+                <li>Ccaizhdi language lore</li>
+            </ul>
 
             <br><br>
-            Links:
-                <a href='texteditor.php'>Type Ccaizhdi</a>
-            <ul>
 
             In case you are curious, here is a sample of the language:
-            Meaning: "Drown demons, poinson snakes, and trun Deons into Suns!"
-            Romanized: "Roppaestosh shae, zhoxaesh zhox, zai shosh ri aefshosh neft!"
+            <ul>
+                <li>Meaning: "Drown demons, poinson snakes, and turn Deons into Suns!"</li>
+                <li>Romanized: "Roppaestosh shae, zhoxaesh zhox, zai shosh ri aefshosh neft!"</li>
+            </ul>
 
             <p class='ccaizhdi'>
-                Ropaestow wae
+                ropaestow wae,
                 <br>
-                yoxaew uox
+                yoxaew uox,
                 <br>
                 zai wow ri aefwow neft!
             </p>
 
-            Note: Ccaizhdi is written top-to-bottom, left-tio-right.
-        </p>
+            <br><br>
+            Note: Ccaizhdi is written top-to-bottom, left-tio-right.<br>
+            Have fun learning Ccaizhdi!<br>
+            --Jeffrey (Siothrún, as Gaeilge) Sardina
+        </div>
 
     </body>
 </html>

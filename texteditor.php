@@ -5,7 +5,7 @@
             @font-face
             {
                 font-family:"ccaizhdi";
-                src: url("ccaizhdi_rotated.woff") format("woff");
+                src: url("ccaizhdi_rotatedv4.woff") format("woff");
                 font-weight:normal;
                 font-style:normal;
             }
@@ -22,7 +22,12 @@
                 font-size: 2.5em;
             }
 
-            .centerbox, textarea
+            textarea
+            {
+                font-size: 2em;
+            }
+
+            .centerbox
             {
                 margin: auto;
                 width: 60%;
@@ -43,12 +48,17 @@
         <h1>Welcome to the site of the Ccaizhdi language!</h1>
 
         <div class='centerbox'>
-            <a href='index.php'>Home</a>
-            <br>
-            Go ahead and use the text box below to type in the Ccaizhdi script. It is still being developed, so only lower-case characters will work. Numbers and warcase (the Ccaizhdi 'upper case' of sorts) will be added later.
-            
+        Links:
+            <ul>
+                <li><a href='index.php'>Home</a></li>
+            </ul>
+
+            <br><br>
+            Go ahead and use the text box below to type in the Ccaizhdi script. It is still being developed, so only lower-case characters will work. Numbers and warcase (the Ccaizhdi 'upper case' of sorts, but less used than the English upper case) will be added later.
+            <br><br>
             Note that the font used is generally easy on the QWERTY keyboard. However, some bindings are not intuitive, so I have a list below:
-            <br>
+            <br><br>
+
             <table>
             <tr>
                 <th>Key----</th>
@@ -174,7 +184,7 @@
             </table>
         </div>
 
-        <textarea class="ccaizhdi" rows="50" cols="20"></textarea>
+        <textarea class="ccaizhdi" rows="35" cols="20"></textarea>
 
     </body>
 </html>
