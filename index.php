@@ -18,7 +18,7 @@
             </ul>
             <br><br>
 
-            This site will contain lore, learning resources, and a text editor for my favorite invented fantasy langauge, Ccaizhdi (aka Fantasy Klingon). It's still in development, and features will be being added over time.
+            This site will contain lore, learning resources, and a text editor for my favorite invented fantasy langauge, Ccaizhdi (aka Fantasy Klingon). It's still in development, and features will be added over time.
             <br><br>
 
             List of features I intend to add soon:

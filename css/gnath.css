@@ -23,6 +23,11 @@ a
     color: #aaaaff;
 }
 
+table, th, tr, td
+{
+    border-color: #444444;
+}
+
 textarea
 {
     background-color:#111111;
@@ -41,10 +46,5 @@ button
 {
     background-color:#656565;
     color: #cccccc;
-    border-color: #444444;
-}
-
-table, th, tr, td
-{
     border-color: #444444;
 }
