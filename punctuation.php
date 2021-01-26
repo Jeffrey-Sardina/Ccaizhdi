@@ -35,7 +35,7 @@
             </ul>
 
             <br><br>
-            Ccaizhdi uses a somewhat different punctuation from English, though at a broad level there are many similarities. The biggest differennce is that they have fewer symbols, which tend to be more versatile. The table below lists them, and I then explain the uses in more detail.
+            Ccaizhdi uses a somewhat different punctuation from English, though at a broad level there are many similarities. The biggest differennce is that they have fewer symbols, which tend to be more versatile. The table below lists them, and I then explain their uses in more detail.
             
             <br><br>
 
@@ -61,18 +61,18 @@
                     <td class='ccaizhdi'>< ></td>
                 </tr>
                 <tr>
-                    <td>,</td>
+                    <td>.</td>
                     <td>full stop</td>
                     <td class='ccaizhdi'>.</td>
                 </tr>
                 <tr>
                     <td>,</td>
-                    <td>listing, introducing subordiante clauses</td>
+                    <td>listing, introducing relative clauses</td>
                     <td class='ccaizhdi'>,</td>
                 </tr>
                 <tr>
                     <td>.,</td>
-                    <td>connecting two clauses (no subordination)</td>
+                    <td>connecting non-relative clauses, offsetting lists</td>
                     <td class='ccaizhdi'>.,</td>
                 </tr>
             </table>
@@ -80,9 +80,9 @@
             <br><br>
             The Ccaizhdi ! is used not only when someone is shouting or raising their voice, but when they strengthen it--such as speaking with great determination without even raising your voice. It can be used for exclamations of shock, but is never used for exclamations of fear. Those take a full stop (.) instead.
 
-            The Ccaizhdi ? is used not only for questions, but also when someone speaks in a sad or deep voice. Ccaizhdi lower their voice when they ask questions, which is why this symbol came to also be a question mark.
+            The Ccaizhdi ? is used not only for questions, but also when someone speaks in a sorrowful or deep voice. Ccaizhdi lower their voice when they ask questions, which is why this symbol came to be a question mark.
 
-            The Ccaizhdi , is used in all cases English uses a comma.. What we call the Oxford comma (a, b, and c rather than a, b and c) is mandatory in Ccaizhdi.<br>
+            The Ccaizhdi , is used in all cases English uses a comma. What we call the Oxford comma (is, writing "a, b, and c" rather than "a, b and c") is mandatory in Ccaizhdi.<br>
             For example:
             <ul>
                 <li>I see ducks, elephants, and dragons.</li>
@@ -99,7 +99,7 @@
                 <li>I see a few animals., lions, tigers, and bears</li>
             </ul>
 
-            The Ccaizhdi quotes <> and full stop . work as they do in English.
+            The Ccaizhdi quotes <> and full stop . work they do in English.
 
             <br><br>
             Go ahead and use the text box below to try it out!

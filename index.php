@@ -18,10 +18,10 @@
             </ul>
             <br><br>
 
-            This site will contain lore, learning resources, and a text editor for my favorite invented fantasy langauge, Ccaizhdi (aka Fantasy Klingon). It's still in development, so please be aware that features will be being added over time.
+            This site will contain lore, learning resources, and a text editor for my favorite invented fantasy langauge, Ccaizhdi (aka Fantasy Klingon). It's still in development, and features will be being added over time.
             <br><br>
 
-            List of stuff I intend to add soon:
+            List of features I intend to add soon:
             <ul>
                 <li>Irish-language setting</li>
                 <li>Ccaizhdi dictionary and grammar (once I have it developed well enough)</li>
@@ -30,9 +30,9 @@
 
             <br><br>
 
-            In case you are curious, here is a sample of the language:
+            If you are curious, here is a sample of the language:
             <ul>
-                <li>Meaning: "Drown demons, poinson snakes, and turn Deons into Suns!"</li>
+                <li>Meaning: "Drown demons, poison snakes, and turn Deons into Suns!"</li>
                 <li>Romanized: "Roppaestosh shae, zhoxaesh zhox, zai shosh ri aefshosh neft!"</li>
             </ul>
 
@@ -45,7 +45,7 @@
             </p>
 
             <br><br>
-            Note: Ccaizhdi is written top-to-bottom, left-tio-right.<br>
+            Note: Ccaizhdi is written top-to-bottom, left-to-right.<br>
             Have fun learning Ccaizhdi!<br>
             --Jeffrey (Siothrún, as Gaeilge) Sardina
         </div>

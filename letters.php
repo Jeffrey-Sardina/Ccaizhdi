@@ -186,7 +186,7 @@
             </table>
 
             <br><br>
-            Go ahead and use the text box below to type in the Ccaizhdi script. It is still being developed, so only numgbers, some punctuation, and lower-case characters will work. Warcase (the Ccaizhdi 'upper case' of sorts, but less used than the English upper case) will be added later.
+            Go ahead and use the text box below to type in the Ccaizhdi script. It is still being developed, so only numbers, some punctuation, and lower-case characters will work. Warcase (the Ccaizhdi 'upper case' of sorts, but less used than the English upper case) will be added later.
         </div>
 
         <textarea class="ccaizhdi" rows="30" cols="25"></textarea>
