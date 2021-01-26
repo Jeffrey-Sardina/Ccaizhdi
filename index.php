@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <title>Ccaizhdi</title>
         <link rel="stylesheet" href="css/ccaizhdi.css">
         <link rel="stylesheet" href="css/gnath.css">
     </head>
@@ -11,7 +12,9 @@
         <div class='centerbox'>
             Links:
             <ul>
-                <li><a href='texteditor.php'>Ccaizhdi Text Editor</a></li>
+                <li><a href='letters.php'>Ccaizhdi Letters</a></li>
+                <li><a href='numbers.php'>Ccaizhdi Numbers</a></li>
+                <li><a href='punctuation.php'>Ccaizhdi Punctuation</a></li>
             </ul>
             <br><br>
 
